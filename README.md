@@ -20,11 +20,11 @@ Please feel free to send me [pull requests]() or email (mqjyl2012@163.com) to ad
 
 ## Table of Contents
 
-- [Scene Graph Generation](#Scene Graph Generation)
-  - [2-D Scene Graph](#2-D Scene Graph)
-  - [Spatio-Temporal Scene Graph](#Spatio-Temporal Scene Graph)
-  - [3-D Scene Graph](#3-D Scene Graph)
-  - [Generate Scene Graph from Textual Description](#Generate Scene Graph from Textual Description)
+- [Scene Graph Generation](#Scene-Graph-Generation)
+  - [2-D Scene Graph](#2-D-Scene-Graph)
+  - [Spatio-Temporal Scene Graph](#Spatio-Temporal-Scene-Graph)
+  - [3-D Scene Graph](#3-D-Scene-Graph)
+  - [Generate Scene Graph from Textual Description](#Generate-Scene-Graph-from-Textual-Description)
   - [Attribute Detection](#Attribute Detection)
   - [Other Works](#Other Works)
   - [Datasets](#Datasets)
