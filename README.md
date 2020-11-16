@@ -54,6 +54,11 @@ Please feel free to send me [pull requests]() or email (mqjyl2012@163.com) to ad
 * [Weakly Supervised Visual Semantic Parsing](https://arxiv.org/abs/2001.02359) - Alireza Zareian  _et al_, `CVPR 2020`. 
 * [GPS-Net: Graph Property Sensing Network for Scene Graph Generation](https://arxiv.org/abs/2003.12962) - Xin Lin  _et al_, `CVPR 2020`.  [[code]](https://github.com/taksau/GPS-Net)
 * [Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation](https://www.semanticscholar.org/paper/Deep-Generative-Probabilistic-Graph-Neural-Networks-Khademi-Schulte/4a03b00fe590ef62966a0f74b9450ff62e82b9a5) - Mahmoud Khademi  _et al_, `AAAI 2020`. 
+* [PCPL: Predicate-Correlation Perception Learning for Unbiased Scene Graph Generation](http://arxiv.org/abs/2009.00893) - Shaotian Yan  _et al_, `MM 2020`.
+* [Memory-Based Network for Scene Graph with Unbalanced Relations](https://dl.acm.org/doi/10.1145/3394171.3413507) - Weitao Wang  _et al_, `MM 2020`.
+* [Part-Aware Interactive Learning for Scene Graph Generation](https://dl.acm.org/doi/10.1145/3394171.3413501) - Hongshuo Tian  _et al_, `MM 2020`.
+* [One-shot Scene Graph Generation](https://dl.acm.org/doi/10.1145/3394171.3414025) - Yuyu Gao  _et al_, `MM 2020`.
+* [HOSE-Net: Higher Order Structure Embedded Network for Scene Graph Generation](http://arxiv.org/abs/2008.05156) - Meng Wei  _et al_, `MM 2020`.
 * [Unbiased Scene Graph Generation via Rich and Fair Semantic Extraction](https://arxiv.org/abs/2002.00176) - Bin Wen  _et al_, `ARXIV 2020`. 
 * [Long-tail Visual Relationship Recognition with a Visiolinguistic Hubless Loss](https://arxiv.org/abs/2004.00436) - Sherif Abdelkarim  _et al_, `ARXIV 2020`. 
 * [Bridging Knowledge Graphs to Generate Scene Graphs](https://arxiv.org/abs/2001.02314) - Alireza Zareian  _et al_, `ARXIV 2020`. 
